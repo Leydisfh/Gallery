@@ -26,3 +26,16 @@
     font-size: 12px;
    color: #BDBDBD;
 }
+
+@media screen and (min-width:768px) {
+    .info__container-box{
+        width: 100px;
+        height: 67px;
+    }
+    .info__container-box h2{
+        font-size: 18px;
+    }
+    .info__container-box p{
+        font-size: 14px;
+    }
+}
